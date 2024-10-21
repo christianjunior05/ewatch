@@ -590,8 +590,48 @@ video {
   width: 1.75rem;
 }
 
+.w-2\/3 {
+  width: 66.666667%;
+}
+
+.w-\[\] {
+  width: ;
+}
+
+.w-\[2vh\] {
+  width: 2vh;
+}
+
+.w-\[3vh\] {
+  width: 3vh;
+}
+
+.w-\[4vh\] {
+  width: 4vh;
+}
+
+.w-\[5vh\] {
+  width: 5vh;
+}
+
+.w-\[6vh\] {
+  width: 6vh;
+}
+
+.w-\[7vh\] {
+  width: 7vh;
+}
+
+.w-\[10vh\] {
+  width: 10vh;
+}
+
 .grid-cols-4 {
   grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.justify-normal {
+  justify-content: normal;
 }
 
 .justify-between {
