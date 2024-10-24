@@ -592,6 +592,22 @@ video {
   width: max-content;
 }
 
+.w-\[\] {
+  width: ;
+}
+
+.w-\[70vh\] {
+  width: 70vh;
+}
+
+.w-\[max\] {
+  width: max;
+}
+
+.w-\[100vh\] {
+  width: 100vh;
+}
+
 .justify-normal {
   justify-content: normal;
 }
